@@ -1,5 +1,17 @@
 [
 	{
+		"name": "iOS 17 - Light Wallpaper",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iOS%2017/iOS%2017%20-%20Light%20Wallpaper.jpg?raw=true",
+		"collections": "iOS 17",
+		"downloadable": true
+	},
+	{
+		"name": "iOS 17 - Dark Wallpaper",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iOS%2017/iOS%2017%20-%20Dark%20Wallpaper.jpg?raw=true",
+		"collections": "iOS 17",
+		"downloadable": true
+	},
+	{
 		"name": "iPhone 14 Pro - Space Black",
 		"author": "iclarified.com",
 		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2014%20Pro/iPhone%2014%20Pro%20-%20Space%20Black.jpg?raw=true",
@@ -430,7 +442,6 @@
 		"name": "Clownfish",
 		"author": "iclarified.com",
 		"url": "https://www.iclarified.com/images/news/86246/418770/418770.jpg",
-		"thumbnail": "https://github.com/gamithasam/iOSify/blob/main/Thumbnails/Clownfish/Clownfish_thumb.jpg?raw=true",
 		"collections": "Clownfish",
 		"downloadable": true
 	}

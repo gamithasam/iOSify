@@ -1,14 +1,219 @@
 [
 	{
 		"name": "iOS 17 - Light Wallpaper",
+		"author": "guidingtech.com",
 		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iOS%2017/iOS%2017%20-%20Light%20Wallpaper.jpg?raw=true",
 		"collections": "iOS 17",
 		"downloadable": true
 	},
 	{
 		"name": "iOS 17 - Dark Wallpaper",
+		"author": "guidingtech.com",
 		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iOS%2017/iOS%2017%20-%20Dark%20Wallpaper.jpg?raw=true",
 		"collections": "iOS 17",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 Pro - Black",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015%20Pro/iPhone%2015%20Pro%20-%20Black.png?raw=true",
+		"collections": "iPhone 15 Pro",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 Pro - Gold",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015%20Pro/iPhone%2015%20Pro%20-%20Gold.png?raw=true",
+		"collections": "iPhone 15 Pro",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 Pro - Grey",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015%20Pro/iPhone%2015%20Pro%20-%20Grey.png?raw=true",
+		"collections": "iPhone 15 Pro",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 Pro - Silver",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015%20Pro/iPhone%2015%20Pro%20-%20Silver.png?raw=true",
+		"collections": "iPhone 15 Pro",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 - Black",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015/iPhone%2015%20-%20Black.png?raw=true",
+		"collections": "iPhone 15",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 - Blue",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015/iPhone%2015%20-%20Blue.png?raw=true",
+		"collections": "iPhone 15",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 - Green",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015/iPhone%2015%20-%20Green.png?raw=true",
+		"collections": "iPhone 15",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 - Pink",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015/iPhone%2015%20-%20Pink.png?raw=true",
+		"collections": "iPhone 15",
+		"downloadable": true
+	},
+	{
+		"name": "iPhone 15 - Yellow",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/iPhone%2015/iPhone%2015%20-%20Yellow.png?raw=true",
+		"collections": "iPhone 15",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Black",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Black.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Blue",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Blue.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Burgundy",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Burgundy.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Green",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Green.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Rose Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Rose%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Violet Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Violet%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Voilet",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Voilet.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Yellow 2",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Yellow%202.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Dark Yellow",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Dark%20Yellow.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Black",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Black.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Blue",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Blue.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Burgundy",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Burgundy.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Green Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Green%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Green",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Green.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Rose Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Rose%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Violet Flower",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Violet%20Flower.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Voilet",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Voilet.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Yellow 2",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Yellow%202.jpg?raw=true",
+		"collections": "Kaleidoscope",
+		"downloadable": true
+	},
+	{
+		"name": "Kaleidoscope - Light Yellow",
+		"author": "guidingtech.com",
+		"url": "https://github.com/gamithasam/iOSify/blob/main/Wallpapers/Kaleidoscope/Kaleidoscope%20-%20Light%20Yellow.jpg?raw=true",
+		"collections": "Kaleidoscope",
 		"downloadable": true
 	},
 	{

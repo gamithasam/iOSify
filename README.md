@@ -20,7 +20,7 @@ Before installing iOSify, make sure you have the following:
 
 1. Install KWGT, KWGT Pro, and iOSify.
 2. Add a Kustom widget to your home screen and tap on it.
-3. Navigate to the Explore tab and go to Bing Pix from there.
+3. Navigate to the Explore tab and go to iOSify from there.
 4. Select the widget you desire.
 5. Tap the 💾 button on the top-right corner.
 6. Enjoy your new widgets! 😃
